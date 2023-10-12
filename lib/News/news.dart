@@ -90,7 +90,8 @@ class _NewsScreenState extends State<NewsScreen> {
                       text: "Publicationss Date:",style: TextStyle(color: Colors.red),
                     ),TextSpan(  
                       text: "${note.date}"
-                    )
+                    ),
+                    //vommrnt sdddrd
 
                   ]
                 )),
